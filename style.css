@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    text-align: center;
+    line-height: 180vh
+}
+
+.box{
+    height: 100vh;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.red{
+    background-color: red;
+    background-image: url(./img/01.png)    
+}
+
+.green{
+    background-color: green;
+    background-image: url(./img/02.png);
+}
+
+.yellow{
+    background-color: yellow;
+    background-image: url(./img/03.png);
+}
+
+
